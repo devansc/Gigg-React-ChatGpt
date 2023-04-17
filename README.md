@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Gigg React
+
+This project was created solely by asking Chat-GPT4 questions. I realize it's terrible code but it's pretty cool it's almost working as-is.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
